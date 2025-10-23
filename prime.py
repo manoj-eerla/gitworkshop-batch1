@@ -7,4 +7,5 @@ def isprime(n):
 
 for i in range(1,101):
 	if isprime(i):
+
 		print(i)
